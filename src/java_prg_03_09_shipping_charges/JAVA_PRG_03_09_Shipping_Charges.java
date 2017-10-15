@@ -26,9 +26,9 @@ import javax.swing.JOptionPane;
  * distance to ship so I will be adding this to the code
  */
 public class JAVA_PRG_03_09_Shipping_Charges {
-
     /**
      * @param args the command line arguments
+     * This function does all the work
      */
     public static void main(String[] args) {
         // Declare static floats for package weight comparisons
